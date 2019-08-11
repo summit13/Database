@@ -1,0 +1,9 @@
+DESCRIBE Play;
+DESCRIBE Meal;
+DESCRIBE PlayInfo;
+DESCRIBE Ticket;
+DESCRIBE Booking;
+DESCRIBE People;
+DESCRIBE Customer;
+DESCRIBE Staff;
+DESCRIBE TicketInfo;

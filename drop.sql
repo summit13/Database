@@ -1,0 +1,9 @@
+DROP TABLE Play;
+DROP TABLE TicketInfo;
+DROP TABLE Ticket;
+DROP TABLE Staff;
+DROP TABLE Customer;
+DROP TABLE People;
+DROP TABLE Booking;
+DROP TABLE Meal;
+DROP TABLE PlayInfo;
